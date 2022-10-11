@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.frmLine.resources
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+D:\Documents\Visual Studio 2019\Projects\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb

@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\bin\Debug\OneButtonedBandit.exe.config
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\bin\Debug\OneButtonedBandit.exe
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\bin\Debug\OneButtonedBandit.pdb
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\obj\Debug\OneButtonedBandit.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\obj\Debug\OneButtonedBandit.Form1.resources
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\obj\Debug\OneButtonedBandit.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\obj\Debug\OneButtonedBandit.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\obj\Debug\OneButtonedBandit.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\obj\Debug\OneButtonedBandit.exe
+D:\Documents\Visual Studio 2019\Projects\OneButtonedBandit\OneButtonedBandit\obj\Debug\OneButtonedBandit.pdb

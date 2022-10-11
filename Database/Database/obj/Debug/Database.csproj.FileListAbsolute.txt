@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Projects\Database\Database\bin\Debug\Database.exe.config
+D:\Documents\Visual Studio 2019\Projects\Database\Database\bin\Debug\Database.exe
+D:\Documents\Visual Studio 2019\Projects\Database\Database\bin\Debug\Database.pdb
+D:\Documents\Visual Studio 2019\Projects\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\Database\Database\obj\Debug\Database.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\Database\Database\obj\Debug\Database.exe
+D:\Documents\Visual Studio 2019\Projects\Database\Database\obj\Debug\Database.pdb
+D:\Documents\Visual Studio 2019\Projects\Database\Database\obj\Debug\Database.frmBooks.resources
