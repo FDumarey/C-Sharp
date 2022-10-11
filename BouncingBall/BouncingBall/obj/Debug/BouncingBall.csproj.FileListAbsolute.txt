@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\obj\Debug\BouncingBall.frmBall.resources
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+D:\Documents\Visual Studio 2019\Projects\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb

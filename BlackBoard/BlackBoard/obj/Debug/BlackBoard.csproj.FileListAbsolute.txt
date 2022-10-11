@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\bin\Debug\BlackBoard.exe.config
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\bin\Debug\BlackBoard.exe
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\bin\Debug\BlackBoard.pdb
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\obj\Debug\BlackBoard.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\obj\Debug\BlackBoard.frmBlackBoard.resources
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\obj\Debug\BlackBoard.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\obj\Debug\BlackBoard.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\obj\Debug\BlackBoard.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\obj\Debug\BlackBoard.exe
+D:\Documents\Visual Studio 2019\Projects\BlackBoard\BlackBoard\obj\Debug\BlackBoard.pdb
