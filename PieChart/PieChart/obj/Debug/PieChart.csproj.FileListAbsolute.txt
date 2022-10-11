@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2019\Projects\PieChart\PieChart\bin\Debug\PieChart.dll
+D:\Documents\Visual Studio 2019\Projects\PieChart\PieChart\bin\Debug\PieChart.pdb
+D:\Documents\Visual Studio 2019\Projects\PieChart\PieChart\obj\Debug\PieChart.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\PieChart\PieChart\obj\Debug\PieChart.dll
+D:\Documents\Visual Studio 2019\Projects\PieChart\PieChart\obj\Debug\PieChart.pdb

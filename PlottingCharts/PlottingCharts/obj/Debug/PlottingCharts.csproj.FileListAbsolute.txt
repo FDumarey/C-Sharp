@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\PlottingCharts.exe.config
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\PlottingCharts.exe
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\PlottingCharts.pdb
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.exe
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.pdb
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\BarChart.dll
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\LineChart.dll
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\PieChart.dll
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\BarChart.pdb
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\LineChart.pdb
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\bin\Debug\PieChart.pdb
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.frmPlot.resources
+D:\Documents\Visual Studio 2019\Projects\PlottingCharts\PlottingCharts\obj\Debug\PlottingCharts.csproj.CopyComplete

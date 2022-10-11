@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\bin\Debug\Printing.exe.config
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\bin\Debug\Printing.exe
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\bin\Debug\Printing.pdb
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\obj\Debug\Printing.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\obj\Debug\Printing.frmPrinting.resources
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\obj\Debug\Printing.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\obj\Debug\Printing.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\obj\Debug\Printing.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\obj\Debug\Printing.exe
+D:\Documents\Visual Studio 2019\Projects\Printing\Printing\obj\Debug\Printing.pdb
